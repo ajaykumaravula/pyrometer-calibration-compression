@@ -1,0 +1,19 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.vscode/
+
+# Local model weights
+models/
+*.pth
+*.pkl
+
+# Local runtime outputs & logs
+thesis_run_v2/
+*.log
+*.csv
+podfam/
+figures/
