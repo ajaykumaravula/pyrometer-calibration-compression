@@ -1,0 +1,8 @@
+Method,Type,Ratio,YOUR_ATP3_ReconRMSE
+delta_lossless,Delta,1.0,0.0
+delta_0.1C,Delta,4.0,7.174
+delta_0.5C,Delta,4.0,41.9416
+delta_1.0C,Delta,4.0,70.991
+wavelet_20pct,Wavelet,3.8,0.5354
+wavelet_10pct,Wavelet,7.6,0.952
+wavelet_5pct,Wavelet,15.3,1.301

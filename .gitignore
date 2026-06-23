@@ -12,9 +12,12 @@ models/
 *.pkl
 
 # Local runtime outputs & logs
-thesis_run_v2/*
-!thesis_run_v2/*.png
 *.log
 *.csv
 podfam/
 figures/
+thesis_run_v2/*
+
+# Allow specific deliverables
+!thesis_run_v2/*.png
+!thesis_run_v2/D1_*.csv
