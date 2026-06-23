@@ -12,7 +12,8 @@ models/
 *.pkl
 
 # Local runtime outputs & logs
-thesis_run_v2/
+thesis_run_v2/*
+!thesis_run_v2/*.png
 *.log
 *.csv
 podfam/
